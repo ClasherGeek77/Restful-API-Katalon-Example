@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>assert_create_new_order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e56c121b-337c-4198-bb2d-9d704df9033b</testCaseGuid>
+</TestCaseEntity>

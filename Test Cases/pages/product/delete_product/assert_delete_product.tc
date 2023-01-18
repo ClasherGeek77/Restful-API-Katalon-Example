@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>assert_delete_product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56200dda-466b-4d5e-b404-30c2118f5bf9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_order_by_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77114c85-f590-41a0-85e8-ab44d45cb49f</testCaseGuid>
+</TestCaseEntity>

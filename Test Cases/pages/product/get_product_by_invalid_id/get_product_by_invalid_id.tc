@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_product_by_invalid_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f80a0c43-0bf6-4526-926a-4f809d6a82ce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>assert_get_order_by_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc57271f-23a7-4e1b-b28a-bb5525a6c754</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_product_by_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b02e245f-38af-415d-81a5-2587bab5c72e</testCaseGuid>
+</TestCaseEntity>
