@@ -16,6 +16,6 @@ jobs:
       - name: Katalon Studio Github Action - Run All API Suites
         uses: katalon-studio/katalon-studio-github-action@v2.1
         with:
-          version: '7.9.0'
+          version: '8.6.5'
           projectPath: '${{ github.workspace }}'
           args: '-noSplash -retry=0 -statusDelay=15 -testSuiteCollectionPath="Test Suites/Test Suite Collection" -apiKey=${{ secrets.KATALON_API_KEY }} --config -webui.autoUpdateDrivers=true'
